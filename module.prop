@@ -1,6 +1,6 @@
 id=camera-volte-mod
-name=Enable VoLTE + Camera Sounds Control
+name=Enable VoLTE and Wi-Fi Calling + Camera Sounds Control
 version=v1.1
 versionCode=2
 author=Niros
-description=Adding VoLTE options + camera sound control (disable shutter sound). Made for and tested on the Pixel 6.
+description=Adding VoLTE and Wi-Fi calling options + camera sound control (disable shutter sound). Made for and tested on the Pixel 6.
