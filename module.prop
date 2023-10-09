@@ -1,6 +1,6 @@
-id=camera-volte-mod
-name=Add VoLTE, Wi-Fi + Video Calling & Camera Sounds Toggle 
-version=v1.2
-versionCode=3
+id=nirs-props-collection
+name=Small System Props Collection
+version=v1.5
+versionCode=4
 author=Niros
-description=Enable hidden VoLTE, Wi-Fi + Video calling & camera sounds toggle (disable shutter sound), which are disabled by default in some countries.
+description=Small Magisk module that includes some useful system props for android. Inclues props that enable VoLTE & Wi-Fi Video calling, enable camera sounds toggle (disable shutter sound), and disable the "High Volume Warning" prompt.
